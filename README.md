@@ -18,7 +18,7 @@ The total time taken to generate the code was **28 minutes (0.46 hours)**. Below
 
 ## Test Coverage
 
-The project achieved **86.96% pass rate** for unit test cases covering UI, functionality, Api Integration and coding standards without the need for manual coding. Detailed test results can be found in the [pass percentage.xlsx](https://docs.google.com/spreadsheets/d/1SLK8m4braILA0YncXFQb5f3jIQHjWhjC/edit?usp=sharing&ouid=116493966492613948949&rtpof=true&sd=true) file.
+The project achieved **91% pass rate** for unit test cases covering UI, functionality, Api Integration and coding standards without the need for manual coding. Detailed test results can be found in the [pass percentage.xlsx](https://docs.google.com/spreadsheets/d/15Vxh0kxvVFEYxmjWIdty4ZNvR2qBQjKr/edit?usp=sharing&ouid=116493966492613948949&rtpof=true&sd=true) file.
 
 ## Figma Design
 
@@ -29,6 +29,10 @@ This is the figma design used for preparing the code [Figma design](https://www.
 *Screenshots of the application's output will be added here.*
 
 <div style="display: flex; justify-content: space-around; gap: 20px;">
+    <div>
+        <b>Profile Screen</b>
+        <img src="assets/screenshot.jpg" alt="Profile Screen" width="200"/>
+    </div>
     <div>
         <b>Profile Screen</b>
         <img src="assets/screenshot.jpg" alt="Profile Screen" width="200"/>
